@@ -1,0 +1,41 @@
+body {
+    background-image: url(backgroud.jpeg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: olive;
+    text-shadow: -2px 0px 3px red;
+    font-weight: bold;
+    
+}
+p {
+    color: olive;
+    text-align: center;
+    font-weight: bold;
+}
+p em {
+    color: rgb(129, 34, 34);
+    
+}
+hr {
+  border-top: 8px dotted rgb(129, 34, 34);
+}
+div {
+    text-align: center;
+    display: inline-block;
+
+}
+.parent div h4 {
+    color: rgb(129, 34, 34);
+}
+.parent div p {
+    font-size: small;
+    color: olive;
+    text-align: center;
+    width: 400px;
+}
+footer h1 {
+    text-shadow: none;
+}
+      
